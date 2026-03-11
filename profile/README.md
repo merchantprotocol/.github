@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/merchantprotocol/.github/raw/main/profile/banner.png" alt="Merchant Protocol" width="100%" />
+  <img src="https://github.com/merchantprotocol/.github/raw/main/profile/banner.svg" alt="Merchant Protocol" width="100%" />
 </p>
 
 <h1 align="center">Merchant Protocol</h1>
