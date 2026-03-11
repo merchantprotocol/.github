@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Agents-blueviolet.svg" alt="AI Agents">
-  <img src="https://img.shields.io/badge/Infrastructure-Docker%20%7C%20PHP%20%7C%20Nginx-blue.svg" alt="Infrastructure">
+  <img src="https://img.shields.io/badge/Full--Stack-Infrastructure%20%7C%20Applications-blue.svg" alt="Full-Stack">
   <img src="https://img.shields.io/badge/Deployment-Protocol%20CI%2FCD-green.svg" alt="Deployment">
   <img src="https://img.shields.io/badge/SOC2-Type%20II%20Ready-brightgreen.svg" alt="SOC2">
 </p>
@@ -20,7 +20,7 @@
 
 **AI Agents** — Desktop and server-side AI agents that handle real business workflows. Easy to install, free to run, plugin-extensible.
 
-**Production Infrastructure** — SOC 2 compliant Docker images, hardened with ModSecurity WAF, Wazuh SIEM, and TLS. Ready for regulated industries.
+**SOC 2 Full-Stack** — Scalable, SOC 2 compliant infrastructure and applications. From hardened Docker images and CI/CD pipelines to production-ready SaaS starter kits — everything you need to ship compliant software across the full stack.
 
 **Zero-Complexity Deployment** — Protocol is our open-source CI/CD tool. Push a git tag, set one variable, every node deploys. Encrypted secrets, instant rollback, full audit trail.
 
